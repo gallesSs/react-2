@@ -1,0 +1,14 @@
+.button {
+  background-color: none;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.list {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin: 10px 0;
+  gap: 5px;
+}
